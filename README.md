@@ -1,2 +1,3 @@
-# Hi there, I'm Animesh Guatam.
-<a href=”https://twitter.com/Zomnimesh">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
+# Hi there, I'm Animesh Gautam
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Zomnimesh)
