@@ -1,1 +1,1 @@
-![alt text](https://{cdn-prod.medicalnewstoday.com/content/images/articles/325/325466/man-walking-dog.jpg} “add your alt text”)
+<img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
