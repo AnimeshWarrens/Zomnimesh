@@ -1,1 +1,1 @@
-<img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Zomnimesh&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
