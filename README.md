@@ -1,3 +1,13 @@
 # Hi there, I'm Animesh Gautam
 
-[!Github Badge(https://img.shields.io/github/followers/Zomnimesh?color=white&logo=github&logoColor=black)] [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Zomnimesh)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Zomnimesh)
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/Zomnimesh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zomnimesh&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Zomnimesh">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Zomnimesh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Zomnimesh's GitHub Stats" />
+</a>
