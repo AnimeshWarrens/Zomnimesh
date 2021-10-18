@@ -1,1 +1,2 @@
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Zomnimesh&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+# Hi there, I'm Animesh Guatam.
+<a href=”https://www.instagram.com/Zomnimesh/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
